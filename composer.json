@@ -1,5 +1,5 @@
 {
-    "name": "petrik/proba",
+    "name": "Petrik/Proba",
     "type": "project",
     "require": {
         "slim/slim": "^4.8",
